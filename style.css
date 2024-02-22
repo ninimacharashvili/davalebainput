@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(185, 183, 183);
+    display: flex;
+    justify-content: center;
+}
+.card{
+    height: 500px;
+    width: 250px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(228, 224, 224);
+    color: rgb(73, 72, 72);
+}
